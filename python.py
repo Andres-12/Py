@@ -1,10 +1,10 @@
 #-*- coding: utf8 -*-#
-printf "Hola!\n"
+print "Hola!\n"
 v="String"
-printf v
+print v
 if v == "String":
-    printf "Entro al if"
+    print "Entro al if"
 else:
-    printf "No entro al if"
+    print "No entro al if"
 if True:
-    printf "Es True"
+    print "Es True"
