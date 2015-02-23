@@ -10,3 +10,4 @@ i = 1
 print "\n"
 while i <= 100:
     print str(i) + ",\t"
+    i=i+1
